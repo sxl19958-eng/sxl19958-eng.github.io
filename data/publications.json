@@ -1,0 +1,146 @@
+{
+  "owner": "Xiaoli Su",
+  "last_updated": "2026-10-09",
+  "english": [
+    {
+      "year": 2026,
+      "title": "A product life cycle curve prediction method via dynamic fusion and inference rectification",
+      "authors": [
+        "Xin Li",
+        "Quan Cheng",
+        "Xiaoli Su",
+        "Evren Sahin",
+        "Zhe Yuan"
+      ],
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "details": "181, 115595",
+      "doi": "10.1016/j.engappai.2026.115595",
+      "topic": "Forecasting & AI"
+    },
+    {
+      "year": 2026,
+      "title": "The influences of interlocking director networks on supply chain resilience",
+      "authors": [
+        "Mingxing Xu",
+        "Yanping Lin",
+        "Rongkun Wang",
+        "Xiaoli Su"
+      ],
+      "journal": "International Journal of Logistics Research and Applications",
+      "details": "Online first",
+      "doi": "10.1080/13675567.2026.2715101",
+      "topic": "Supply Chain Analytics"
+    },
+    {
+      "year": 2026,
+      "title": "Dynamic demand forecasting in bike-sharing systems: a multidimensional spatiotemporal network",
+      "authors": [
+        "Quan Cheng",
+        "Xin Li",
+        "Xiaoli Su",
+        "Zhe Yuan"
+      ],
+      "journal": "International Journal of Production Research",
+      "details": "Online first, pp. 1–31",
+      "doi": "10.1080/00207543.2026.2683107",
+      "topic": "Forecasting & AI"
+    },
+    {
+      "year": 2026,
+      "title": "Improving supply chain efficiency in hidden champions: a TOE framework approach with evidence from China",
+      "authors": [
+        "Tianshuo Ge",
+        "Xiang Lv",
+        "Xiaoli Su"
+      ],
+      "journal": "International Journal of Logistics Research and Applications",
+      "details": "Online first",
+      "doi": "10.1080/13675567.2026.2658601",
+      "topic": "Supply Chain Analytics"
+    },
+    {
+      "year": 2026,
+      "title": "GenAI’s silent cost: the looming environmental crisis",
+      "authors": [
+        "Delong Nie",
+        "Xin Li",
+        "Xiaoli Su"
+      ],
+      "journal": "Integrated Environmental Assessment and Management",
+      "details": "22(1), 316–317",
+      "doi": "10.1093/inteam/vjaf114",
+      "topic": "AI & Sustainability"
+    },
+    {
+      "year": 2025,
+      "title": "Bridging uncertainty: a data-driven DRO approach for correcting censored demand in newsvendor problems",
+      "authors": [
+        "Xiaoli Su",
+        "Zhe Yuan",
+        "Chenghu Yang",
+        "Evren Sahin",
+        "Jie Xiong"
+      ],
+      "journal": "International Journal of Production Economics",
+      "details": "285, 109626",
+      "doi": "10.1016/j.ijpe.2025.109626",
+      "topic": "Robust Optimization"
+    },
+    {
+      "year": 2025,
+      "title": "Data-driven optimization for production planning with multiple demand features",
+      "authors": [
+        "Xiaoli Su",
+        "Lijun Zeng",
+        "Bo Shao",
+        "Binlong Lin"
+      ],
+      "journal": "Kybernetes",
+      "details": "54(1), 110–133",
+      "doi": "10.1108/K-04-2023-0690",
+      "topic": "Robust Optimization"
+    },
+    {
+      "year": 2024,
+      "title": "A data-driven distributionally robust optimization approach for the core acquisition problem",
+      "authors": [
+        "Chenghu Yang",
+        "Xiaoli Su",
+        "Xin Ma",
+        "Srinivas Talluri"
+      ],
+      "journal": "European Journal of Operational Research",
+      "details": "318(1), 253–268",
+      "doi": "10.1016/j.ejor.2024.05.007",
+      "topic": "Robust Optimization"
+    },
+    {
+      "year": 2023,
+      "title": "A data-driven distributionally newsvendor problem for edge-cloud collaboration in intelligent manufacturing systems",
+      "authors": [
+        "Chenghu Yang",
+        "Xiaoli Su",
+        "Peng Wu"
+      ],
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "details": "126, 106995",
+      "doi": "10.1016/j.engappai.2023.106995",
+      "topic": "Robust Optimization"
+    }
+  ],
+  "chinese": [
+    {
+      "year": 2021,
+      "title": "联合惩戒机制下政企博弈问题研究",
+      "authors": [
+        "阳成虎",
+        "苏晓丽",
+        "陈茂晨"
+      ],
+      "journal": "福州大学学报（哲学社会科学版）",
+      "details": "35, 08",
+      "topic": "Supply Chain Analytics",
+      "doi": null
+    }
+  ]
+}
